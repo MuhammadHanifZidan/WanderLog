@@ -93,8 +93,8 @@ Both use `env.storage().instance()` — persistent storage that lives as long as
 
 > **`create_log` invocation:**
 
-![Testnet Screenshot - create_log](<img width="1919" height="927" alt="image" src="https://github.com/user-attachments/assets/0e9d890c-4ba5-4ae7-8d75-cf6c8f164a7d" />
-)
+<img width="1919" height="927" alt="image" src="https://github.com/user-attachments/assets/8a0ec90b-30f4-450e-9636-00363fdce002" />
+
 
 ---
 
