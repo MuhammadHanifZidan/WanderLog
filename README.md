@@ -93,33 +93,8 @@ Both use `env.storage().instance()` — persistent storage that lives as long as
 
 > **`create_log` invocation:**
 
-![Testnet Screenshot - create_log](_YOUR_SCREENSHOT_HERE_)
-
-<!-- Paste your Sorobix testnet screenshot below -->
-
-> **`get_all_logs` result:**
-
-![Testnet Screenshot - get_all_logs](_YOUR_SCREENSHOT_HERE_)
-
----
-
-## 🚀 How to Run
-
-### Smart Contract (via Sorobix — No Local Setup Needed)
-
-1. Go to **[sorobix.vercel.app](https://sorobix.vercel.app)**
-2. Paste the contents of `lib.rs` into the editor (remove the `mod test;` line at the bottom)
-3. Click **Compile** and wait for success
-4. Click **Deploy** — Sorobix will deploy to Stellar Testnet and return your Contract ID
-5. Use the function panel to invoke `create_log`, `get_all_logs`, etc.
-
-> ⚠️ When invoking enum parameters like `mood`, use JSON format: `{"Amazing": null}`
-
-### Frontend
-
-1. Download `index.html`
-2. Double-click to open in any browser — no server needed
-3. The app runs fully client-side
+![Testnet Screenshot - create_log](<img width="1919" height="927" alt="image" src="https://github.com/user-attachments/assets/0e9d890c-4ba5-4ae7-8d75-cf6c8f164a7d" />
+)
 
 ---
 
